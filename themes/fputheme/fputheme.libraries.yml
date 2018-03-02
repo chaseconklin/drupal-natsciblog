@@ -1,0 +1,16 @@
+bootstrap:
+  css:
+    base:
+      css/bootstrap.min.css: {}
+    theme:
+      css/boostrap-theme.min.css: {}
+  js:
+    js/boostrap.min.js: {}
+
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/style.css: {}
+    component:
+      css/components/main-navigation.css: {}

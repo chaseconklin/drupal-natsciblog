@@ -1,0 +1,31 @@
+.block-system-branding-block img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*div.vertical-center {*/
+    /*display: flex;*/
+    /*align-items: center;*/
+/*}*/
+
+.region-primary-menu ul.menu {
+    text-align: center;
+}
+
+.region-primary-menu a {
+    color: white;
+    font-size: 1.25em;
+}
+
+.region-primary-menu ul.menu a.is-active {
+    color: white;
+}
+
+.region-secondary-menu ul.menu {
+    text-align: right;
+}
+
+.region-secondary-menu a {
+    color: white;
+    font-size: 1.25em;
+}
